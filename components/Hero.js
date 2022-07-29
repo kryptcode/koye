@@ -21,10 +21,10 @@ const Hero = () => {
                 <i className="fa-brands fa-github hover:text-[#161b22] hover:scale-105 transition-all duration-200"></i>
             </span>
             <span className='text-5xl'>
-                <i class="fa-brands fa-linkedin hover:text-blue-900 hover:scale-105 transition-all duration-200 "></i>
+                <i className="fa-brands fa-linkedin hover:text-blue-900 hover:scale-105 transition-all duration-200 "></i>
             </span>
             <span className='text-5xl'>
-                <i class="fa-brands fa-twitter hover:text-blue-700 hover:scale-105 transition-all duration-200 "></i>
+                <i className="fa-brands fa-twitter hover:text-blue-700 hover:scale-105 transition-all duration-200 "></i>
             </span>
         </div>
 
