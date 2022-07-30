@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Audiophile",
+        "description": "A fake online shopping application where you can shop for audio devices. It also provides features such as cart management multi-page routing etc.",
+        "bg": "#a7f3d0",
+        "techs": ["Next.js", "Context API", "TailwindCSS"],
+        "img": "https://i.ibb.co/WyR8sS5/Screenshot-2022-05-19-at-14-54-23-Audiophile-Home.png",
+        "live_url": "https://audiophile-ivory.vercel.app",
+        "code_url": "https://github.com/kryptcode/audio-p"
+    },
+    {
+        "id": 2,
+        "name": "Printico",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto facere illo atque molestias impedit repellendus voluptatibus recusandae praesentium dolorum veritatis.",
+        "bg": "#c7d2fe",
+        "techs": ["Next.js", "TailwindCSS"],
+        "img": "https://i.ibb.co/s6rKd0n/Screenshot-2022-07-30-at-11-32-04-Printico-Shop.png",
+        "live_url": "https://printico.vercel.app",
+        "code_url": "https://github.com/kryptcode/printico"
+    },
+    {
+        "id": 3,
+        "name": "Tinka",
+        "description": "A fake online shopping application where you can shop men's clothing. It also provides features such as wishlist management, cart management etc.",
+        "bg": "#a7f3d0",
+        "techs": ["Next.js", "Recoil", "TailwindCSS"],
+        "img": "https://i.ibb.co/wCs24wp/Screenshot-2022-07-30-at-11-33-46-Tinka-Green-Flannel-Shirt.png",
+        "live_url": "https://tinka.vercel.app",
+        "code_url": "https://github.com/kryptcode/tinka"
+    },
+    {
+        "id": 4,
+        "name": "myteam",
+        "description": "A multipage website powered by nextjs and tailwindcss",
+        "bg": "#fecdd3",
+        "techs": ["Next.js", "TailwindCSS"],
+        "img": "https://i.ibb.co/Bqjc2dw/Screenshot-2022-07-30-at-13-29-42-myteam-Home.png",
+        "live_url": "https://myteam-pi.vercel.app",
+        "code_url": "https://github.com/kryptcode/myteam"
+    }
+]
