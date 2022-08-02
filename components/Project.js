@@ -19,7 +19,7 @@ const Project = ({ project }) => {
             <p className='text-lg font-medium mb-6'>
                   {project.description}
             </p>
-            <div className="text-md space-x-4 mb-8 break-words">
+            <div className="text-md flex flex-wrap space-x-4 mb-8 break-words">
                 {
                     project.techs.map(tech => (
                         <span className="bg-white p-2">
