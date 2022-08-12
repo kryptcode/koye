@@ -12,7 +12,7 @@
     {
         "id": 2,
         "name": "Printico",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto facere illo atque molestias impedit repellendus voluptatibus recusandae praesentium dolorum veritatis.",
+        "description": "Website for a small scale printing business.",
         "bg": "#c7d2fe",
         "techs": ["Next.js", "TailwindCSS"],
         "img": "https://i.ibb.co/s6rKd0n/Screenshot-2022-07-30-at-11-32-04-Printico-Shop.png",
@@ -32,11 +32,21 @@
     {
         "id": 4,
         "name": "myteam",
-        "description": "A multipage website powered by nextjs and tailwindcss",
+        "description": "A responsive multipage website. Website inspired by frontend mentor.",
         "bg": "#fecdd3",
         "techs": ["Next.js", "TailwindCSS"],
         "img": "https://i.ibb.co/Bqjc2dw/Screenshot-2022-07-30-at-13-29-42-myteam-Home.png",
         "live_url": "https://myteam-pi.vercel.app",
         "code_url": "https://github.com/kryptcode/myteam"
+    },
+    {
+        "id": 5,
+        "name": "Disney+ ish",
+        "description": "A clone of Disney's streaming platform's website. Shows and Movies are sourced from TMDb API. ",
+        "bg": "#4169e1",
+        "techs": ["Next.js", "TailwindCSS", "TMDb API"],
+        "img": "https://i.ibb.co/XYCzcbn/Screenshot-2022-05-19-at-14-56-40-Disney.png",
+        "live_url": "http://disney-plus-psi.vercel.app",
+        "code_url": "https://github.com/kryptcode/disney-plus-build"
     }
 ]
