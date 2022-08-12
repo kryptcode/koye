@@ -47,7 +47,10 @@ const Hero = () => {
         </div>
 
         <button className={styles.cta}>
-            Get in touch
+            <Link href='mailto: adeyombokehd@gmail.com' target="_blank" rel='noreferrer'>
+                Get in touch
+            </Link>
+
         </button>
     </div>
   )
