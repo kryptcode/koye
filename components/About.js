@@ -11,12 +11,12 @@ const About = () => {
             <div>
                 <h1 className={styles.heading}>About.</h1>
                 <p className="text-lg md:text-xl">
-                    👋 Hi! I'm Koye, a passionate frontend developer based in Abuja, Nigeria. I strive to construct web applications that are appealing in design while maintaining their functionality. I've been working in frontend development for just under a year now. I always build projects to hone my skills.
+                    👋 Hi! I'm Koye, a passionate frontend developer based in Abuja, Nigeria. I strive to construct web applications that are appealing in design while maintaining their functionality. I've been working as a frontend developer for over a year. I always build projects to hone my skills.
                 </p>
             </div>
             <div>
                 <p className="text-lg mb-8 md:text-xl">
-                    Currently, I'm pursuing a bachelor's degree in Computer Science and Economics. I am interested in JavaScript technologies. Some frontend technologies that I have worked with and would like to work with in the future are Next.JS, React, Recoil, Thirdweb SDK, Styled components, Tailwind CSS, Firebase, etc.
+                    Currently, I'm pursuing a bachelor's degree in Computer Science and Economics. I am interested in JavaScript technologies. Some frontend technologies that I have worked with and would like to work with in the future are Next.Js, React, Recoil, Thirdweb SDK, Styled components, Tailwind CSS, Firebase, Vite etc.
                 </p>
                 <p className="text-lg md:text-xl">
                     I'm actively seeking roles where I can broaden my knowledge and utilize my skills. 
